@@ -1,0 +1,59 @@
+/* Styles go here */
+.navbar-brand1{
+    font-size: 12px;
+    color: #000000;
+    margin-right: 1px;
+}
+
+.image{
+    margin-right: 20px;
+    margin-left:20px;
+    height: 25px;
+    width: 25px;
+}
+
+.card{
+    /* margin-left: 350px; */
+    margin: auto;
+    max-width: 600px;
+    /* margin-right: 350px; */
+    padding: 20px;
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    flex-flow: column;
+
+}
+.form-control{
+    height : 100px;
+}
+.head{
+    float: right;
+}
+
+.form-group{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    border-color: #7209b7;
+    border-width: 10px;
+    border-radius: 10px;
+}
+
+.btn1{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 14px 40px;
+    background-color: white;
+    color: black;
+    border: 2px solid #d8bbff;
+}
+.btn1 {
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2), 0 4px 16px 0 rgba(0,0,0,0.19);
+  }
+  
+  .btn1:hover {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.24), 0 12px 30px 0 rgba(0,0,0,0.19);
+  }
